@@ -1,3 +1,5 @@
+pip install psutil
+
 import psutil
 import time
 import logging
