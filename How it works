@@ -1,0 +1,3 @@
+The script continuously monitors the system at 60-second intervals.
+If CPU, memory, or disk space usage exceeds the set threshold, it logs a warning and alerts the user on the console.
+The number of running processes is printed in each check cycle.
