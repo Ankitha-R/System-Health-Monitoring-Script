@@ -1,0 +1,4 @@
+psutil: This module provides an interface to retrieve system resource utilization details like CPU, memory, and disk usage.
+Thresholds: You can define custom threshold values for CPU, memory, and disk space.
+Logging: Warnings for threshold breaches are logged to both the console and a log file (system_health.log).
+Processes: The script also prints the current number of running processes.
