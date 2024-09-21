@@ -1,7 +1,9 @@
 pip install psutil
 
 import psutil
+
 import time
+
 import logging
 
 # Setup logging to console and log file
